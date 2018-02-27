@@ -1,4 +1,4 @@
-package flybit.entity;
+package org.flybit.entity;
 
 import java.io.Serializable;
 
